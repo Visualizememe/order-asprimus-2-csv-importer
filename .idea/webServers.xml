@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d1467ef-28c2-4f2b-962c-3cac3ed77c94" name="mariadb-test1">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="165.232.108.100" port="22" sshConfigId="c5fda5a7-3b97-4f58-b56f-7317956cd9d4" sshConfig="root@165.232.108.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

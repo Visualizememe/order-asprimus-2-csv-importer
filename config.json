@@ -1,0 +1,11 @@
+{
+  "input_folder_path": "D:\\Absolute\\path\\to\\folder",
+  "output_folder_path": "C:\\Absolute\\path\\to\\folder",
+  "database": "aretedatabase",
+  "table": "maindb",
+  "credentials": {
+    "user": "root",
+    "password": "password"
+  },
+  "lines_terminated_by": "'\\n'"
+}

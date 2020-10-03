@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d481dd73-20ed-411a-8787-a4035f0263ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qrs14h1m" />
+  </component>
+  <component name="ProjectId" id="1i9bIPwmYGBvwMBVONYuISzR8X7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Orders\Asprimus\Order 2 - CSV converter for database\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d481dd73-20ed-411a-8787-a4035f0263ad" name="Default Changelist" comment="" />
+      <created>1601322674794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601322674794</updated>
+      <workItem from="1601322675857" duration="2314000" />
+      <workItem from="1601390131548" duration="377000" />
+      <workItem from="1601391602018" duration="2983000" />
+      <workItem from="1601455370800" duration="1339000" />
+      <workItem from="1601717167943" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="170" key="#SSH_Configurations" timestamp="1601390224262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="536" y="170" key="#SSH_Configurations/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390224262" />
+    <state x="705" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601390504528">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="705" y="315" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390504528" />
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1601390255501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390255501" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1601390255501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390255501" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1601390255501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390255501" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1601390255501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390255501" />
+    <state x="540" y="265" key="IDE.errors.dialog" timestamp="1601456243740">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="265" key="IDE.errors.dialog/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601456243740" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1601390249040">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390249040" />
+    <state x="845" y="175" key="ftp.server.browser" timestamp="1601390246213">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="845" y="175" key="ftp.server.browser/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601390246213" />
+  </component>
+</project>
